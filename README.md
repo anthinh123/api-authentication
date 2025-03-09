@@ -1,2 +1,3 @@
 # api-authentication
-Demo API Authentication
+
+- Basic Authentication
